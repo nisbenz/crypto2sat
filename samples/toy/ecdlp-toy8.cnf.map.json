@@ -1,0 +1,1 @@
+{"params": {"algo": "ecdlp", "problem": "discrete-log", "curve": "toy8", "p": "131", "a": 0, "b": 7, "G": ["2", "43"], "Q": ["81", "80"], "A": ["85", "2"], "kbits": 8}, "answer": {"k": [8, 7, 6, 5, 4, 3, 2, 1]}}
